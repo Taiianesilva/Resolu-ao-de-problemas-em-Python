@@ -1,1 +1,1 @@
-# Resoluçõo de problemas em Python
+# Resolucao de problemas em Python
